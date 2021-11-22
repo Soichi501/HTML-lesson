@@ -1,0 +1,47 @@
+body {
+    font-family: "Avenier Next";
+}
+.header {
+    background-color: #d0b0eb;
+    color: #fff;
+    height: 100px;
+}
+.header-logo {
+    font-size: 40px;
+    padding: 0px 40px;
+    float: left;
+    margin: 20px;
+}
+.header-list li {
+    font-size: 25px;
+    float: left;
+    padding: 33px 20px;
+    list-style: none;
+}
+.main {
+    background-color: #bcd8a2;
+    height: 500px;
+}
+img {
+    width: 600px;
+    margin: 50px;
+    float: left;
+}
+.main li {
+    font-size: 23px;
+    padding: 33px 20px;
+    list-style: none;
+    margin-bottom: 20px;
+}
+.main-list {
+    float: left;
+    padding-top: 60px; 
+}
+.footer {
+    background-color: #8892bd;
+    height: 200px;
+    padding: 30px;
+}
+.footer-logo {
+    margin-top: 0px; 
+}
